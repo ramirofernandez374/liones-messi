@@ -86,6 +86,24 @@ body {
     margin-top: 70px;
 }
 
+.carousel-section {
+    padding: 20px 30px 40px;
+}
+
+.carousel {
+    max-width: 900px;
+    margin: 20px auto 0;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.img-caru {
+    height: 1000px;
+    width: 1000px;
+    object-fit: cover;
+}
 
 
 
