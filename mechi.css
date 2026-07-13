@@ -35,7 +35,36 @@
     width: 700px;
 }
 
+.hijos{
+    margin: 60px;
+    padding-left: 60px;
+ font-size: 80px;
+ 
+}
 
+.card-img-top{
+    height: 400px;
+    width: 286px;
+}
+.cards{
+    padding: 50px;
+    display: flex;
+    gap: 60px;
+}
+
+.cards-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+}
+.card:hover {
+    transform: translateY(-10px);
+}
+.card-text{
+    font-size: 20px;
+}
 
 
 
