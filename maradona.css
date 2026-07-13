@@ -42,7 +42,16 @@ body {
     width: 700px;
 }
 
+.nombre{
+    margin: 30px;
+    font-size: 90px;
+    padding: 40px;
 
+}
+.descri{
+    font-size: 35px;
+    margin: 50px;
+}
 
 
 
